@@ -1,4 +1,5 @@
 site_name: Podcasting 2.0 Unofficial Documentation
+repo_url: https://github.com/podcasting/podcasting20
 theme:
   name: material 
   features:
