@@ -1,0 +1,12 @@
+site_name: Podcasting 2.0 Unofficial Documentation
+theme:
+  name: material 
+  features:
+    - navigation.tabs
+    - navigation.indexes
+markdown_extensions:
+  - footnotes
+  - admonition
+  - pymdownx.details
+nav:
+  - 'index.md'
