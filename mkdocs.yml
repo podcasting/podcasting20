@@ -15,3 +15,6 @@ nav:
   - 'For Listeners': 'for-listeners/index.md'
   - 'For Podcasters': 'for-podcasters/index.md'
   - 'For Developers': 'for-developers/index.md'
+  - 'Features Showcase':
+    - 'features-showcase/index.md'
+    - 'features-showcase/funding.md'
