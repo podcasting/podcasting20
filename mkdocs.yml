@@ -9,4 +9,7 @@ markdown_extensions:
   - admonition
   - pymdownx.details
 nav:
-  - 'index.md'
+  - 'Podcasting 2.0': 'index.md'
+  - 'For Listeners': 'for-listeners/index.md'
+  - 'For Podcasters': 'for-podcasters/index.md'
+  - 'For Developers': 'for-developers/index.md'
